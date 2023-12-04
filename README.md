@@ -49,7 +49,7 @@ O projeto não está completo e pode apresentar instabilidades. Foi ajustado um 
 
 O projeto ainda está em desenvolvimento.
 
-# ate o momento foi realizado no Back-End.
+# Back-End.
 elaboração das classes modelos : 
 User, UserDTO, Profissional, Neurodivergente, Familiar, Empregador, Comentario, Curriculum, Curtida, Endereco, Postagem, Vaga.
 
@@ -101,7 +101,7 @@ postagens:
 Get - função que sinboliza os lazyload da aplicação com erro. função criada sem parametro e instancia da função com 2 parametros.
 função atualizada
 
-Ajuste a serem feitos:
+# Ajuste a serem feitos
 implementação da validação da seção do usuario via token.
 função de salvar postagem usando um unico endpoint.
 função de sair do usuario atual.
