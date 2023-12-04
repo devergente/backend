@@ -120,3 +120,7 @@ Contribuições são bem-vindas! Para contribuir, por favor:
 4. Faça push para a sua branch.
 5. Abra um Pull Request.
 
+## Contato
+
+Email: [AllanSantos](allannascimentodossantos@gmail.com)
+WhatsApp: [Allan](https://wa.me/5511999999999?text=Ola%20estou%20usando%20o%20link%20do%20github)
